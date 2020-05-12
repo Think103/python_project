@@ -1,0 +1,11 @@
+﻿公众号：放牛娃学编程
+项目开启时间：2020/5/11
+项目要求：爬取美女网（http://www.xueshengmai.com/list-1-0.html）上的信息
+    a. 美女图片 (img_url)
+    b. 美女姓名
+    c. 美女点赞数
+    d. 美女详细信息 (details_url)
+    e. 将美女详情页的资料保存到各自的GirlInformation中的txt文件中
+
+后续的数据可视化以及数据分析，有需要可以自行完善
+
