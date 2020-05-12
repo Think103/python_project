@@ -1,2 +1,2 @@
 # python_project
-此仓库用于存放python项目
+爬取校花网的美女图片
